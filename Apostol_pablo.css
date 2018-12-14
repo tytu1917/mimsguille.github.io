@@ -12,7 +12,7 @@ body {
   padding: 32px;
 }
 
-.quote {
+.quote p {
   text-align: center;
   font-size:20px;
 }
