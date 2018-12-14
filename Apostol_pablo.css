@@ -12,6 +12,9 @@ body {
   padding: 32px;
 }
 
+#link {
+  color: black;
+}
 .row {
   display: -webkit-flexbox; /* IE10 */
   display: flex;
