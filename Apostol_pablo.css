@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  font-family: Arial;
+  font-family: 'Popins', sans-serif;
 }
 
 .header {
@@ -17,16 +17,16 @@ body {
   text-decoration:none;
 }
 .row {
-  display: -webkit-flexbox; /* IE10 */
+  display: -webkit-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap; /* IE10 */
+  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -webkit-flex: 25%; /* IE10 */
+  -webkit-flex: 25%;
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
