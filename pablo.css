@@ -15,7 +15,7 @@ body {
   margin: auto;
   text-align: center;
   background-color: #4475c4;
-  color: green;
+  color: white;
   font-variant: small-caps;
   padding: 10px 0 10px 0;
 }
@@ -39,7 +39,7 @@ table {
 border-collapse: collapse;
 height: 500px;
 clear: both;
-width: 20px;
+width: 100%;
 }
 td {
 width: 33%;
