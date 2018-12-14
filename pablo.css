@@ -39,6 +39,7 @@ table {
 border-collapse: collapse;
 height: 500px;
 clear: both;
+width: 100%
 }
 td {
 width: 33%;
