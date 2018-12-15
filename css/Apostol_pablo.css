@@ -120,5 +120,6 @@ hr {
 .swiper-wrapper img{
   width: 400px;
   height: auto;
+  max-height: 600px;
   box-shadow: 5px 5px 5px #212121;
 }
