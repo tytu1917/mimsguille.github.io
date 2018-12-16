@@ -17,11 +17,11 @@ body {
   text-align: center;
   padding: 32px;
 }
-#novedades{
+/*#novedades{
   -moz-box-shadow: 0 0 3px 1px rgba(0,0,0,0.3);
   -webkit-box-shadow: 0 0 3px 1px rgba(0,0,0,0.3);
   box-shadow: 0 0 3px 1px rgba(0,0,0,0.3);
-}
+}*/
 .section{
   text-align: center;
   letter-spacing: 2px;
